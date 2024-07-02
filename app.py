@@ -81,10 +81,10 @@ def predict_match(team1,team2,venue,kickoff):
    
         
 if team_1 is not None:
-    team1_img= "logos\\" + team_1 + ".png"
+    team1_img= "logos/" + team_1 + ".png"
 
 if team_2 is not None:
-    team2_img= "logos\\" + team_2 +".png"
+    team2_img= "logos/" + team_2 +".png"
 
 if(team_1 is not None and team_2 is not None and team_2!=team_1):    
     col6,col7,col8 = st.columns([1,3,1])   
