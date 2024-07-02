@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 import time
 
-image_path="logos\download.png"
+image_path=".\logos\download.png"
 teams=pickle.load(open('clubs.pkl','rb'))
 model=pickle.load(open('model1.pkl','rb'))
 ranking=pickle.load(open('rankings.pkl','rb'))
@@ -18,6 +18,7 @@ with col2:
 
 
 with col1:
+    
     st.image(image_path, use_column_width='auto') 
 
 
