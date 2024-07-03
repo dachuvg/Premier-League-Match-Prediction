@@ -4,7 +4,7 @@
 In this project, we will select the teams and kickoff time to predict the outcome of the match.
 
 ## Dataset
-* Last 2 years Premier League Scores and Fixtures table and Shooting table for each team was scraped from FBref and stored [here](https://github.com/dachuvg/Premier-League-Match-Prediction/blob/main/all_matches.csv)
+* Last 2 years Premier League Scores and Fixtures table and Shooting table for each team was scraped from a popular football staistics website and stored [here](https://github.com/dachuvg/Premier-League-Match-Prediction/blob/main/all_matches.csv)
 
 ## Model
 * Data is cleaned and processed.
