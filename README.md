@@ -17,3 +17,7 @@ In this project, we will select the teams and kickoff time to predict the outcom
 ## Client App
 * Streamlit based app.
 * Feel free to take a look at the app [here](https://plmatchpred-bydarshanvg.streamlit.app/)
+
+## Screenshots
+(https://github.com/dachuvg/Premier-League-Match-Prediction/blob/main/screenshots/pic1.png)
+(https://github.com/dachuvg/Premier-League-Match-Prediction/blob/main/screenshots/pic2.png)
